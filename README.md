@@ -1,2 +1,0 @@
-# DV
-DV Gradient
